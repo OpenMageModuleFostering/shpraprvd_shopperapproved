@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ShprAprvd_ShopperApproved",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Customer ratings and reviews integration with Shopper Approved. Build reputation with customer surveys. ",
+    "authors": [
+    {
+        "name": "Shopper Approved",
+        "email": "aubreybarker@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
